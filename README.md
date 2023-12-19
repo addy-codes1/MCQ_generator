@@ -1,1 +1,1 @@
-# MCQ_generator
+# QA_generator
